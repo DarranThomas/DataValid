@@ -1,0 +1,154 @@
+================= Logging started at 9/29/2010 12:44:01 AM ==================
+Created release folders
+AdminExecuteSequence table successfully built
+AdminUISequence table successfully built
+AdvtExecuteSequence table successfully built
+AdvtUISequence table successfully built
+InstallExecuteSequence table successfully built
+InstallUISequence table successfully built
+Directory table successfully built
+Feature table successfully built
+FeatureComponents table successfully built
+Component table successfully built
+Loading File table
+Building File table
+ISEXP : warning -6245: One or more of the project's components contain .NET properties that require the .NET Framework.  It is recommended that the release include the .NET Framework.
+ISEXP : warning -6248: Could not find dependent file .dll, or one of its dependencies of component pbDWExcel12Interop115.dll
+ISEXP : warning -6248: Could not find dependent file Sybase.PowerBuilder.DataWindow.Excel12, or one of its dependencies of component pbDWExcel12Interop115.dll
+ISEXP : warning -6308: mscorsn.dll cannot be located on your system. You can set the path to mscorsn.dll using Tools | Options.  The file is part of the Microsoft .NET Framework redistributable.  Please install the .NET Framework and rebuild.
+Adding file 'System.Configuration.dll' that is a dependency of component 'Sybase.PowerBuilder.Db.dll'
+ISEXP : warning -6248: Could not find dependent file Oracle.DataAccess, or one of its dependencies of component Sybase.PowerBuilder.Db.dll
+ISEXP : warning -6248: Could not find dependent file Sybase.Data.AseClient, or one of its dependencies of component Sybase.PowerBuilder.Db.dll
+ISEXP : warning -6308: mscorsn.dll cannot be located on your system. You can set the path to mscorsn.dll using Tools | Options.  The file is part of the Microsoft .NET Framework redistributable.  Please install the .NET Framework and rebuild.
+ISEXP : warning -6248: Could not find dependent file Oracle.DataAccess, or one of its dependencies of component Sybase.PowerBuilder.DbExt.dll
+ISEXP : warning -6248: Could not find dependent file Sybase.Data.AseClient, or one of its dependencies of component Sybase.PowerBuilder.DbExt.dll
+File table successfully built
+Building MsiFileHash table
+MsiFileHash table successfully built
+Class table successfully built
+Extension table successfully built
+ODBCDataSource table successfully built
+ODBCDriver table successfully built
+ActionText table successfully built
+AppSearch table successfully built
+BindImage table successfully built
+CCPSearch table successfully built
+Condition table successfully built
+AppId table successfully built
+Property table successfully built
+BBControl table successfully built
+Billboard table successfully built
+Binary table successfully built
+CompLocator table successfully built
+Complus table successfully built
+ControlCondition table successfully built
+ControlEvent table successfully built
+CreateFolder table successfully built
+CustomAction table successfully built
+Error table successfully built
+DrLocator table successfully built
+DuplicateFile table successfully built
+Environment table successfully built
+EventMapping table successfully built
+FileSFPCatalog table successfully built
+Font table successfully built
+IniFile table successfully built
+IniLocator table successfully built
+IsolatedComponent table successfully built
+ISSelfReg table successfully built
+Verb table successfully built
+LaunchCondition table successfully built
+LockPermissions table successfully built
+MIME table successfully built
+MoveFile table successfully built
+MsiAssembly table successfully built
+MsiAssemblyName table successfully built
+MsiDigitalCertificate table successfully built
+MsiDigitalSignature table successfully built
+ODBCAttribute table successfully built
+ODBCSourceAttribute table successfully built
+ODBCTranslator table successfully built
+PatchPackage table successfully built
+ProgId table successfully built
+PublishComponent table successfully built
+Registry table successfully built
+RegLocator table successfully built
+RemoveFile table successfully built
+RemoveIniFile table successfully built
+RemoveRegistry table successfully built
+ReserveCost table successfully built
+SelfReg table successfully built
+ServiceControl table successfully built
+ServiceInstall table successfully built
+SFPCatalog table successfully built
+Shortcut table successfully built
+Signature table successfully built
+TextStyle table successfully built
+TypeLib table successfully built
+UIText table successfully built
+Upgrade table successfully built
+_Validation table successfully built
+Searching project for extract-at-build components...
+Extracting COM data from 17 component(s)
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbXerces115.dll in component pbXerces115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbado115.dll in component pbado115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbase115.dll in component pbase115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbdir115.dll in component pbdir115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbi10115.dll in component pbi10115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbin9115.dll in component pbin9115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbjdb115.dll in component pbjdb115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbjvm115.dll in component pbjvm115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbo10115.dll in component pbo10115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbo90115.dll in component pbo90115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbodb115.dll in component pbodb115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbole115.dll in component pbole115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbora115.dll in component pbora115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbsnc115.dll in component pbsnc115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbsyc115.dll in component pbsyc115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\pbsyj115.dll in component pbsyj115.dll. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+ISEXP : warning -4354: The build was unable to extract COM information from the file C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\RELEASE CODE\PB115 RUNTIME\tp4ole13.ocx in component tp4ole13.ocx. Please ensure that the file is self-registering and verify that the self-registration process does not fail.
+Building scanned MsiAssembly records
+Building scanned MsiAssemblyName records
+Validating Custom Action sequencing
+Dialog AdminChangeFolder for language English (United States) built
+Dialog AdminNetworkLocation for language English (United States) built
+Dialog AdminWelcome for language English (United States) built
+Dialog CancelSetup for language English (United States) built
+Dialog CustomSetup for language English (United States) built
+Dialog CustomSetupTips for language English (United States) built
+Dialog CustomerInformation for language English (United States) built
+Dialog DatabaseFolder for language English (United States) built
+Dialog DestinationFolder for language English (United States) built
+Dialog DiskSpaceRequirements for language English (United States) built
+Dialog FilesInUse for language English (United States) built
+Dialog InstallChangeFolder for language English (United States) built
+Dialog InstallWelcome for language English (United States) built
+Dialog LicenseAgreement for language English (United States) built
+Dialog MaintenanceType for language English (United States) built
+Dialog MaintenanceWelcome for language English (United States) built
+Dialog OutOfSpace for language English (United States) built
+Dialog PatchWelcome for language English (United States) built
+Dialog ReadmeInformation for language English (United States) built
+Dialog ReadyToInstall for language English (United States) built
+Dialog ReadyToRemove for language English (United States) built
+Dialog SetupCompleteError for language English (United States) built
+Dialog SetupCompleteSuccess for language English (United States) built
+Dialog SetupError for language English (United States) built
+Dialog SetupInitialization for language English (United States) built
+Dialog SetupInterrupted for language English (United States) built
+Dialog SetupProgress for language English (United States) built
+Dialog SetupResume for language English (United States) built
+Dialog SetupType for language English (United States) built
+Dialog SplashBitmap for language English (United States) built
+Resolving strings...
+Language English (United States) built
+Building CAB files...
+Data1.cab built
+Files built
+Media table successfully built
+Performing Upgrading and Patching Validation
+Setup.exe created
+Express\SingleImage - 0 error(s), 26 warning(s)
+================= Logging stopped at 9/29/2010 12:44:44 AM ==================
+Log file has been created: <file:C:\D_DRIVE\djt personal projects\MY SOURCE CODE\DataValid\InstallShield\DataValid\Express\SingleImage\LogFiles\9-29-2010 12-44-01 AM.txt>
+
